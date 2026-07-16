@@ -8,7 +8,7 @@ but a genuinely native Mac app rather than a web viewer.
 
 ![Claude Session Manager](https://raw.githubusercontent.com/jeromezliu/claude-session-manager/main/docs/screenshot.png)
 
-> The screenshot uses mock data. Regenerate it with `swift docs/make-screenshot.swift https://raw.githubusercontent.com/jeromezliu/claude-session-manager/main/docs/screenshot.png`.
+> The screenshot uses mock data.
 
 ## Install
 
